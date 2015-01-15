@@ -27,3 +27,6 @@
 *.out
 *.app
 helloworld
+
+# gedit duplicates
+*~
